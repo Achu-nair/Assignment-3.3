@@ -16,3 +16,5 @@ answer
       
       #mymat sum on columns
       apply(mymat,2,sum)
+
+![](assignment%203.2.PNG)
